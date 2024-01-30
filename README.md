@@ -16,6 +16,9 @@ To use the appication, execute the main.py file using the streamlit CLI
   
   `python -m streamlit run main.py`
 
+## iFood specific dataset 
+The data_cleaning.py script was used to clean the dataset to remove missing values and outliers, and replace them with the mode or mean.
+
 
 
 ![image](https://github.com/geenievuong/csv_chatbot/assets/113995902/597530cf-6b97-4e5c-af33-c80272e0f2db)
