@@ -16,3 +16,9 @@ To use the appication, execute the main.py file using the streamlit CLI
   
   `python -m streamlit run main.py`
 
+
+
+![image](https://github.com/geenievuong/csv_chatbot/assets/113995902/597530cf-6b97-4e5c-af33-c80272e0f2db)
+![image](https://github.com/geenievuong/csv_chatbot/assets/113995902/73a1cad4-d7ef-4dca-b1b0-6ec98d6ac29e)
+
+
